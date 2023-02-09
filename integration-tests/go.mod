@@ -14,7 +14,7 @@ require (
 	github.com/slack-go/slack v0.11.2
 	github.com/smartcontractkit/chainlink-env v0.2.36
 	github.com/smartcontractkit/chainlink-testing-framework v1.5.10
-	github.com/smartcontractkit/libocr v0.0.0-20220701150323-d815c8d0eab8
+	github.com/smartcontractkit/libocr v0.0.0-20230112103111-f100435787c8
 	github.com/stretchr/testify v1.8.0
 	go.uber.org/atomic v1.9.0
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
@@ -35,7 +35,7 @@ require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/deckarep/golang-set v1.8.0 // indirect
 	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.0.1 // indirect
-	github.com/emicklei/go-restful v2.9.5+incompatible // indirect
+	github.com/emicklei/go-restful v2.16.0+incompatible // indirect
 	github.com/evanphx/json-patch v5.6.0+incompatible // indirect
 	github.com/exponent-io/jsonpath v0.0.0-20210407135951-1de76d718b3f // indirect
 	github.com/fatih/camelcase v1.0.0 // indirect
